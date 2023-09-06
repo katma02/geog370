@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "well_point_3857_json",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8799940.289275022223592, 4288529.440539550036192 ] } }
-]
-}
